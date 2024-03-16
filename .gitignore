@@ -1,7 +1,11 @@
 /django.log
 /db.sqlite3
 /forms/__pycache__/
+/forms/migrations/__pycache__/
 /myapp5/__pycache__/
+/myapp5/migrations/__pycache__/
 /myproject/__pycache__/
 /orders/__pycache__/
+/orders/migrations/__pycache__/
 /start_page/__pycache__/
+/start_page/migarations/__pycache__/
