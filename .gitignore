@@ -1,0 +1,7 @@
+/django.log
+/db.sqlite3
+/forms/__pycache__/
+/myapp5/__pycache__/
+/myproject/__pycache__/
+/orders/__pycache__/
+/start_page/__pycache__/
